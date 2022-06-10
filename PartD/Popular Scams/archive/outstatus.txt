@@ -1,0 +1,9 @@
+["Fake ICO", "Offline"]	5
+["Phishing", "Inactive"]	3
+["Phishing", "Offline"]	714
+["Phishing", "Suspended"]	1
+["Scam", "Offline"]	1
+["Scamming", "Active"]	326
+["Phishing", "Active"]	157
+["Scamming", "Offline"]	2406
+["Scamming", "Suspended"]	1

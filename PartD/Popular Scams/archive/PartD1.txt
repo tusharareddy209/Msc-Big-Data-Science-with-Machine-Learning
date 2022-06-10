@@ -1,0 +1,4 @@
+"Scamming"	0
+"Fake ICO"	0
+"Phishing"	0
+"Scam"	0
